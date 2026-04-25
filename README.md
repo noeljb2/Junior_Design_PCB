@@ -1,4 +1,4 @@
-# Theta Bop It — Labubu Edition
+# Bop It — Labubu Edition
 
 An ESP32-S3 based interactive reaction-time game ("Bop It" clone) built into a 3D-printed Labubu figure. Players respond to randomized voice prompts by twisting a knob, shaking the figure, or speaking into the microphone. Difficulty ramps with each round, reaction times shorten, and high scores persist across power cycles.
 
