@@ -43,19 +43,19 @@ No external simulation, FEA, or thermal tools were used on this project, so ther
 
 The four sheets of the schematic are rendered below as PNGs so they can be reviewed directly on GitHub without opening the PDF.
 
-**Sheet 1 — Top level / system**
+**Sheet 1 — MCU + TOP LEVEL**
 
 ![Schematic page 1](Theta_BopIt_Project_Files/HARDWARE_DESIGN_FILES/page1.png)
 
-**Sheet 2 — MCU**
+**Sheet 2 — IMU + MIC**
 
 ![Schematic page 2](Theta_BopIt_Project_Files/HARDWARE_DESIGN_FILES/page2.png)
 
-**Sheet 3 — USB and power**
+**Sheet 3 — LCD and audio**
 
 ![Schematic page 3](Theta_BopIt_Project_Files/HARDWARE_DESIGN_FILES/page3.png)
 
-**Sheet 4 — LCD and audio**
+**Sheet 4 — USB and power**
 
 ![Schematic page 4](Theta_BopIt_Project_Files/HARDWARE_DESIGN_FILES/page4.png)
 
