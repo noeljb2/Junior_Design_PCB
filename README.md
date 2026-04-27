@@ -6,6 +6,8 @@ This is the final design archive for a junior-year ECE 1895 project (University 
 
 ---
 
+![Front View](Theta_BopIt_Project_Files/ENCLOSURE_FILES/labubu.jpg)
+
 ## Repository organization
 
 The archive is split by engineering discipline. Each top-level folder is self-contained so that a reviewer (or future builder) can dive into one domain without needing the others.
